@@ -24,11 +24,9 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: merge to develop
-        uses: robotology/gh-action-nightly-merge@v1.3.1
+        uses: bambamboole/gha-upmerge@master
         with:
-          stable_branch: 'main'
-          development_branch: 'develop'
-          allow_ff: false
-          allow_git_lfs: true
+          from_branch: 'master'
+          to_branch: 'develop'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
