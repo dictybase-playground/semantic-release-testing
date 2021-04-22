@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/dictybase-playground/semantic-release-testing/compare/3.0.11...3.1.0) (2021-04-22)
+
+
+### Features
+
+* go back to working merge step ([4d5bf8b](https://github.com/dictybase-playground/semantic-release-testing/commit/4d5bf8baab2df7b20fc8aa1a43c0d5a169413427))
+
 ## [3.0.11](https://github.com/dictybase-playground/semantic-release-testing/compare/3.0.10...3.0.11) (2021-04-22)
 
 ## [3.0.10](https://github.com/dictybase-playground/semantic-release-testing/compare/3.0.9...3.0.10) (2021-04-22)
