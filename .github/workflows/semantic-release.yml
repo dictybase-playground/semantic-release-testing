@@ -30,5 +30,6 @@ jobs:
           development_branch: 'develop'
           allow_ff: false
           user_name: dictybasebot
+          allow_git_lfs: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
