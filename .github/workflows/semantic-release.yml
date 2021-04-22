@@ -24,9 +24,9 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: merge to develop
-        uses: bambamboole/gha-upmerge@v1.0.1
+        uses: devmasx/merge-branch@v1.3.1
         with:
-          from_branch: 'master'
-          to_branch: 'develop'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          type: now
+          from_branch: main
+          target_branch: develop
+          github_token: ${{ secrets.GITHUB_TOKEN }}
