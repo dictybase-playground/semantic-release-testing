@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: merge to develop
-        uses: bambamboole/gha-upmerge@master
+        uses: bambamboole/gha-upmerge@v1.0.1
         with:
           from_branch: 'master'
           to_branch: 'develop'
