@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dictybase-playground/semantic-release-testing/compare/1.0.0...2.0.0) (2021-04-22)
+
+
+### Features
+
+* remove npm plugin ([2a4d157](https://github.com/dictybase-playground/semantic-release-testing/commit/2a4d157b91ddf1f8abb90354b506331d8b4d5784))
+
+
+### BREAKING CHANGES
+
+* just testing!
+
 # 1.0.0 (2021-04-22)
 
 
