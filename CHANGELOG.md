@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dictybase-playground/semantic-release-testing/compare/2.0.0...3.0.0) (2021-04-22)
+
+
+### Features
+
+* add npm plugin back in ([9462904](https://github.com/dictybase-playground/semantic-release-testing/commit/9462904cda6fd41a00510438fe6867766e7ac1b2))
+
+
+### BREAKING CHANGES
+
+* needed to update package.json
+
 # [2.0.0](https://github.com/dictybase-playground/semantic-release-testing/compare/1.0.0...2.0.0) (2021-04-22)
 
 
