@@ -1,3 +1,5 @@
+## [3.0.10](https://github.com/dictybase-playground/semantic-release-testing/compare/3.0.9...3.0.10) (2021-04-22)
+
 ## [3.0.9](https://github.com/dictybase-playground/semantic-release-testing/compare/3.0.8...3.0.9) (2021-04-22)
 
 ## [3.0.8](https://github.com/dictybase-playground/semantic-release-testing/compare/3.0.7...3.0.8) (2021-04-22)
